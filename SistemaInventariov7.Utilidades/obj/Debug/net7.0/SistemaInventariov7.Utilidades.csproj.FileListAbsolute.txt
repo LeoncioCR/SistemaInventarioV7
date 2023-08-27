@@ -1,0 +1,11 @@
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\bin\Debug\net7.0\SistemaInventariov7.Utilidades.deps.json
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\bin\Debug\net7.0\SistemaInventariov7.Utilidades.dll
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\bin\Debug\net7.0\SistemaInventariov7.Utilidades.pdb
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\obj\Debug\net7.0\SistemaInventariov7.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\obj\Debug\net7.0\SistemaInventariov7.Utilidades.AssemblyInfoInputs.cache
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\obj\Debug\net7.0\SistemaInventariov7.Utilidades.AssemblyInfo.cs
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\obj\Debug\net7.0\SistemaInventariov7.Utilidades.csproj.CoreCompileInputs.cache
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\obj\Debug\net7.0\SistemaInventariov7.Utilidades.dll
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\obj\Debug\net7.0\refint\SistemaInventariov7.Utilidades.dll
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\obj\Debug\net7.0\SistemaInventariov7.Utilidades.pdb
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Utilidades\obj\Debug\net7.0\ref\SistemaInventariov7.Utilidades.dll

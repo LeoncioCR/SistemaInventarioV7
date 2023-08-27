@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SistemaInventariov7.Modelos/1.0.0": {
+        "dependencies": {
+          "SistemaInventariov7.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "SistemaInventariov7.Modelos.dll": {}
+        }
+      },
+      "SistemaInventariov7.Utilidades/1.0.0": {
+        "runtime": {
+          "SistemaInventariov7.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaInventariov7.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaInventariov7.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

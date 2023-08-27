@@ -1,0 +1,15 @@
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\bin\Debug\net7.0\SistemaInventariov7.Modelos.deps.json
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\bin\Debug\net7.0\SistemaInventariov7.Modelos.dll
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\bin\Debug\net7.0\SistemaInventariov7.Modelos.pdb
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\bin\Debug\net7.0\SistemaInventariov7.Utilidades.dll
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\bin\Debug\net7.0\SistemaInventariov7.Utilidades.pdb
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\SistemaInventariov7.Modelos.csproj.AssemblyReference.cache
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\SistemaInventariov7.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\SistemaInventariov7.Modelos.AssemblyInfoInputs.cache
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\SistemaInventariov7.Modelos.AssemblyInfo.cs
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\SistemaInventariov7.Modelos.csproj.CoreCompileInputs.cache
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\SistemaInventariov7.Modelos.csproj.CopyComplete
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\SistemaInventariov7.Modelos.dll
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\refint\SistemaInventariov7.Modelos.dll
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\SistemaInventariov7.Modelos.pdb
+F:\Udemy\Guia Completa ASP.NET Core MVC (Net 7.0)\SistemaInventariov7\SistemaInventariov7.Modelos\obj\Debug\net7.0\ref\SistemaInventariov7.Modelos.dll
