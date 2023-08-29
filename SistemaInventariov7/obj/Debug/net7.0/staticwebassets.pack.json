@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\Udemy\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariov7\\SistemaInventariov7\\wwwroot\\js\\Bodega.js",
+      "PackagePath": "staticwebassets\\js\\Bodega.js"
+    },
+    {
       "Id": "F:\\Udemy\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariov7\\SistemaInventariov7\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

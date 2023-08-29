@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z+2Ssv2nDFoahPDyjIeApTcZnhLQTTNijEg8MIqIexs=",
+  "Hash": "Kat1nx2uZgmvZaKiH4Wf5YLLYPDLmFsTqPjg7ibaW4I=",
   "Source": "SistemaInventariov7",
   "BasePath": "_content/SistemaInventariov7",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\Udemy\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariov7\\SistemaInventariov7\\wwwroot\\js\\Bodega.js",
+      "SourceId": "SistemaInventariov7",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Udemy\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariov7\\SistemaInventariov7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventariov7",
+      "RelativePath": "js/Bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Bodega.js"
     },
     {
       "Identity": "F:\\Udemy\\Guia Completa ASP.NET Core MVC (Net 7.0)\\SistemaInventariov7\\SistemaInventariov7\\wwwroot\\js\\site.js",
